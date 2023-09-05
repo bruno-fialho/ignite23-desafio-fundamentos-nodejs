@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "522c150d-7737-41b3-8eba-1870be770b4f",
+      "title": "Create Backend Repo",
+      "description": "Using Node.js and TypeScript",
+      "created_at": "2023-09-05T16:29:30.916Z",
+      "updated_at": "2023-09-05T16:29:30.916Z"
+    },
+    {
+      "id": "1e600c52-9c9b-4fbd-8490-fa90972b1aa9",
+      "title": "Create Routes",
+      "description": "All routes of the backend",
+      "created_at": "2023-09-05T16:29:30.920Z",
+      "updated_at": "2023-09-05T16:29:30.920Z"
+    },
+    {
+      "id": "b140743d-028a-4b78-bf02-9286d9b06460",
+      "title": "Create Database",
+      "description": "Raw database",
+      "created_at": "2023-09-05T16:29:30.921Z",
+      "updated_at": "2023-09-05T16:29:30.921Z"
+    },
+    {
+      "id": "9b8eb940-8995-4a1a-a38f-3e1225a660a7",
+      "title": "Create Stream",
+      "description": "To upload csv files",
+      "created_at": "2023-09-05T16:29:30.922Z",
+      "updated_at": "2023-09-05T16:29:30.922Z"
+    },
+    {
+      "id": "c6e7e414-5055-456a-b764-59da2dfe7b36",
+      "title": "Finish Backend",
+      "description": "All things working fine",
+      "created_at": "2023-09-05T16:29:30.923Z",
+      "updated_at": "2023-09-05T16:29:30.923Z"
+    }
+  ]
+}
